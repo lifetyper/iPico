@@ -1,0 +1,45 @@
+### Footprint positions - created on Sat Dec 16 11:50:44 2023 ###
+### Printed by KiCad version 7.0.9
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                   Package                                   PosX       PosY       Rot  Side
+C1        C_0402_2.2uF_10V_X5R  C_0402_1005Metric                       2.2450    10.3000    0.0000  top
+C2        C_0402_2.2uF_10V_X5R  C_0402_1005Metric                       2.2450     9.2250    0.0000  top
+C3        C_0402_1uF_10V_X7R    C_0402_1005Metric                      16.3000     9.5200  -90.0000  top
+C4        C_0402_100nF_16V_X7R  C_0402_1005Metric                       3.3000    15.6000  180.0000  top
+C5        C_0402_2.2uF_10V_X5R  C_0402_1005Metric                       1.8000    16.0450   90.0000  top
+C6        C_0402_2.2uF_10V_X5R  C_0402_1005Metric                       7.1000     9.7750   90.0000  top
+C7        C_0402_22nF_50V_X7R   C_0402_1005Metric                       4.1000    24.4250  -90.0000  top
+C8        C_0402_100nF_16V_X7R  C_0402_1005Metric                      14.1000    17.9200   90.0000  top
+C9        C_0402_2.2uF_10V_X5R  C_0402_1005Metric                       4.0000     9.7750  -90.0000  top
+C10       C_0402_2.2uF_10V_X5R  C_0402_1005Metric                       6.1000     9.7750  -90.0000  top
+C11       C_0402_100nF_16V_X7R  C_0402_1005Metric                      14.1000    15.2950   90.0000  top
+C12       C_0402_100nF_16V_X7R  C_0402_1005Metric                       3.3950    18.2750  180.0000  top
+C13       C_0402_15pF_50V_C0G   C_0402_1005Metric                      10.8050    24.4250  -90.0000  top
+C14       C_0402_100nF_16V_X7R  C_0402_1005Metric                       3.3000    16.6750  180.0000  top
+C15       C_0402_100nF_16V_X7R  C_0402_1005Metric                       5.1500    24.4000   90.0000  top
+C16       C_0402_15pF_50V_C0G   C_0402_1005Metric                       6.1800    26.3700   90.0000  top
+C17       C_0402_22nF_50V_X7R   C_0402_1005Metric                      11.6500     9.8000  -90.0000  top
+C18       C_0402_100nF_16V_X7R  C_0402_1005Metric                      10.6000     9.8000  -90.0000  top
+C19       C_0402_2.2uF_10V_X5R  C_0402_1005Metric                       9.5500     9.8000   90.0000  top
+D1        PESD0402-140_         D_0402_1005Metric                       6.9294     7.7450   90.0000  top
+D2        PESD0402-140_         D_0402_1005Metric                      10.1226     7.7400  -90.0000  top
+D3        NCD0603G1             LED_0603_1608Metric                     2.5000    25.8000  -90.0000  top
+F1        BSMD0603-020-16V      Fuse_0603_1608Metric                    2.6875     7.3500  180.0000  top
+H1        MountingHole_Pad      MountingHole-M1                         9.0000    28.3000    0.0000  top
+H2        MountingHole_Pad      MountingHole-M1                        16.2000     4.7000    0.0000  top
+H3        MountingHole_Pad      MountingHole-M1                         1.8000     4.7000    0.0000  top
+J1        GT-USB-8016A          GT-USB-8016A                            9.0000     4.8100    0.0000  top
+R1        R_0402_5.1K_5%        R_0402_1005Metric                      11.1870     7.7450   90.0000  top
+R2        R_0402_27_5%          R_0402_1005Metric                       9.0582     7.7450   90.0000  top
+R3        R_0402_27_5%          R_0402_1005Metric                       7.9938     7.7450   90.0000  top
+R4        R_0402_200_5%         R_0402_1005Metric                       5.0750     9.7750  -90.0000  top
+R5        R_0402_1K_5%          R_0402_1005Metric                       6.1800    24.4200   90.0000  top
+R6        R_0402_1K_5%          R_0402_1005Metric                      16.3000    11.5900   90.0000  top
+R7        R_0402_470_5%         R_0402_1005Metric                       2.3000    23.2000    0.0000  top
+SW1       TS-1187A-C-H-B        SW_Push_1P1T_XKB_TS-1187A              14.5000    25.8000   90.0000  top
+U1        W25Q16JVUXIQ          USON8-2x3mm-EP0.2x1.6mm                14.6250    10.2000  -90.0000  top
+U2        RT9013-33GB           SOT-23-5                                2.7000    12.9375   90.0000  top
+U4        RP2040                QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm     9.2000    17.4000  180.0000  top
+Y1        X322512MMB4SI         Crystal_SMD_2520-4Pin_2.5x2.0mm         8.4800    25.0200  180.0000  top
+## End
