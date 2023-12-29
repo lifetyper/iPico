@@ -1,6 +1,7 @@
 # iPico
 Open Hardware Secure Key Using Pico Fido Firmware
 
+![iPico PCB and Enclosure](https://lifetyper.com/images/ipico_with_enclosure.jpeg "iPico PCB and Enclosure").
 
 
 1.Using same gpio as raspi pico
